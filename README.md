@@ -7,12 +7,12 @@ The application takes in a log file consisting of strings seperated by a new lin
 - The top 3 most visited URL's
 - The top 3 most active IP's
 
-* Assumptions
+# Assumptions
 
 - Most visited is measured by number of requests to a unique URL over the log period
 - Most active is measured by number of requests made by each unique IP over the log period
 
-* Running the application
+# Running the application
 
 Open a terminal at the root of the project folder and run with ./gradlew run. 
 A report in the following format will be outputted to the terminal window.
@@ -32,7 +32,7 @@ Top 3 most active IP's are:
 50.112.00.11=3
 177.71.128.21=3
 
-* Running tests
+# Running tests
 
 Open a terminal at the root of the project folder and run with ./gradlew test. 
 If any tests have failed, a HTML report with details of the failed tests will be generated at /coding-test/build/reports/tests/test/index.html

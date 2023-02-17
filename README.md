@@ -20,17 +20,17 @@ A report in the following format will be outputted to the terminal window.
 ********* REPORT *********
 
 Number of unique IP addresses is: 
-11
+xx
 
 Top 3 most visited URL's are:
-/docs/manage-websites/=2
-/blog/2018/08/survey-your-opinion-matters/=1
-/newsletter/=1
+xxxxx
+xxxxx
+xxxxx
 
 Top 3 most active IP's are:
-168.41.191.40=4
-50.112.00.11=3
-177.71.128.21=3
+xxxxx
+xxxxx
+xxxxx
 
 # Running tests
 

@@ -25,4 +25,4 @@ If any tests have failed, a HTML report with details of the failed tests will be
 
 # Troubleshooting
 
-If when running the ```./gradle``` commands you received Permission Denied warning. Run ```chmod +x gradlew``` from project root directory
+If when running the ```./gradle``` commands you received Permission Denied error. Run ```chmod +x gradlew``` from project root directory

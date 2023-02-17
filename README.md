@@ -12,13 +12,13 @@ The application takes in a log file consisting of strings seperated by a new lin
 - Most visited is measured by number of requests to a unique URL over the log period
 - Most active is measured by number of requests made by each unique IP over the log period
 - Log files follow the same format
-- Log files are named programming-task-example-data.log and stored in the project resources folder
+- Log files are named ```programming-task-example-data.log``` and stored in the project resources folder
 
 # Running the application
 
-Open a terminal at the root of the project folder and run with ./gradlew run, a report will be outputted to the terminal window.
+Open a terminal at the root of the project folder and run with ```./gradlew run```, a report will be outputted to the terminal window.
 
 # Running tests
 
-Open a terminal at the root of the project folder and run with ./gradlew test. 
+Open a terminal at the root of the project folder and run with ```./gradlew test``` 
 If any tests have failed, a HTML report with details of the failed tests will be generated at ```/coding-test/build/reports/tests/test/index.html```

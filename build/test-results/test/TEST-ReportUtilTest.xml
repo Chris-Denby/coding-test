@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ReportUtilTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2023-02-16T23:22:14" hostname="Chriss-MacBook-Pro.local" time="0.008">
+<testsuite name="ReportUtilTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2023-02-17T00:08:06" hostname="Chriss-MacBook-Pro.local" time="0.007">
   <properties/>
-  <testcase name="getTop3IPsByActivity_returns_3_or_lesss()" classname="ReportUtilTest" time="0.003"/>
-  <testcase name="generateReport_builds_string()" classname="ReportUtilTest" time="0.004"/>
-  <testcase name="getUniqueIP_removes_duplicates()" classname="ReportUtilTest" time="0.0"/>
-  <testcase name="getUniqueURL_removes_duplicates()" classname="ReportUtilTest" time="0.001"/>
+  <testcase name="getTop3IPsByActivity_returns_3_or_lesss()" classname="ReportUtilTest" time="0.002"/>
+  <testcase name="generateReport_builds_string()" classname="ReportUtilTest" time="0.003"/>
+  <testcase name="getUniqueIP_removes_duplicates()" classname="ReportUtilTest" time="0.001"/>
+  <testcase name="getUniqueURL_removes_duplicates()" classname="ReportUtilTest" time="0.0"/>
   <testcase name="getTop3AddressesByViews_returns_3_or_less()" classname="ReportUtilTest" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>

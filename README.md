@@ -20,5 +20,9 @@ Open a terminal at the root of the project folder and run with ```./gradlew run`
 
 # Running tests
 
-Open a terminal at the root of the project folder and run with ```./gradlew test``` 
+Open a terminal at the root of the project folder and run ```./gradlew test``` 
 If any tests have failed, a HTML report with details of the failed tests will be generated at ```/coding-test/build/reports/tests/test/index.html```
+
+# Troubleshooting
+
+If when running the ```./gradle``` commands you received Permission Denied warning. Run ```chmod +x gradlew``` from project root directory
